@@ -1,15 +1,15 @@
-# vim-monokai
+# vim-monokai-night
 
 Monokai color scheme for Vim converted with [coloration](http://coloration.sickill.net) from Textmate theme with the same name.
 
 ## Screenshots
 
-![Monokai in Vim](https://cloud.github.com/downloads/sickill/vim-monokai/vim-monokai.png)
+![monokai-night in Vim](monokai-night-screenshot.png)
 
 
 ## Installation
 
-Put `monokai.vim` file in your `~/.vim/colors/` directory and add the following line to your `~/.vimrc`:
+Put `monokai-night.vim` file in your `~/.vim/colors/` directory and add the following line to your `~/.vimrc`:
 
     syntax enable
-    colorscheme monokai
+    colorscheme monokai-night
