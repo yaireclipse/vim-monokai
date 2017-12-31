@@ -1,6 +1,6 @@
 # vim-monokai-night
 
-Monokai color scheme for Vim converted with [coloration](http://coloration.sickill.net) from Textmate theme with the same name.
+Monokai color scheme for Vim converted with [coloration](http://coloration.sickill.net) from Textmate theme with the same name, with minor change - make background dark as the night itself.
 
 ## Screenshots
 
